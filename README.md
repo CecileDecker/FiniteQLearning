@@ -13,5 +13,5 @@ In this paper we propose a novel $Q$-learning algorithm allowing to solve distri
 # Content
 
 The Examples from the paper are provided as seperate jupyter notebooks, each with a unique name, exactly specifying which example is covered therein. These are:
-- An [Example](https://github.com/) covering finite Q learning for a coin toss game (Example 4.1 from the paper).
+- An [Example 4.1](https://github.com/CecileDecker/FiniteQLearning/blob/main/Example_4.1_cointoss.ipynb) covering finite Q learning for a coin toss game (Example 4.1 from the paper).
 - An [Example](https://github.com/) covering finite Q learning for a stock investing example (Example 4.2 from the paper).
