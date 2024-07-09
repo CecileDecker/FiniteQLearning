@@ -8,7 +8,7 @@ In this paper we propose a novel $Q$-learning algorithm allowing to solve distri
 
 # Preprint
 
-[Link]()
+[Link](https://arxiv.org/abs/2407.04259)
 
 # Content
 
